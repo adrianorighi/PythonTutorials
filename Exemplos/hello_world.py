@@ -1,4 +1,4 @@
 #!/usr/bin/python
 #coding=utf-8
-texto = "Hello World é!"
+texto = "Hello World!"
 print(texto)
